@@ -1,4 +1,4 @@
-# [Tme Series Forecasting]()
+# [Time Series Forecasting]()
 
 ## [DIY Machine Learning Projects]()
 
